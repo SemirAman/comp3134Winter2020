@@ -1,0 +1,125 @@
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2020-01-14T02:32:46-0800
+Creation Date: 2005-02-14T21:13:12-0800
+Registrar Registration Expiration Date: 2021-02-14T00:00:00-0800
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Contact form at https://domains.markmonitor.com/whois/youtube.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Contact form at https://domains.markmonitor.com/whois/youtube.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Contact form at https://domains.markmonitor.com/whois/youtube.com
+Name Server: ns4.google.com
+Name Server: ns1.google.com
+Name Server: ns3.google.com
+Name Server: ns2.google.com
+DNSSEC: unsigned
+
+-------------------------------
+
+Domain Name: SAMSUNG.COM
+Registry Domain ID: 1521529_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.yesnic.com
+Registrar URL: http://www.yesnic.com
+Updated Date: 2019-11-29T05:48:41Z
+Creation Date: 1994-11-29T05:00:00Z
+Registry Expiry Date: 2025-11-28T05:00:00Z
+Registrar: Whois Networks Co., Ltd.
+Registrar IANA ID: 100
+Registrar Abuse Contact Email: abuse@yesnic.com
+Registrar Abuse Contact Phone: +82.15884259
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: DNS-GI1.SAMSUNG.COM
+Name Server: DNSSM.SAMSUNG.COM
+Name Server: DNSSM2.SAMSUNG.COM
+Name Server: DNSST.SAMSUNG.COM
+Name Server: DNSST2.SAMSUNG.COM
+DNSSEC: unsigned
+
+-------------------------------
+
+Domain Name: ASUS.COM
+Registry Domain ID: 2790608_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.net-chinese.com.tw
+Registrar URL: http://www.net-chinese.com.tw
+Updated Date: 2019-06-27T08:57:38Z
+Creation Date: 1995-10-25T04:00:00Z
+Registry Expiry Date: 2021-10-24T04:00:00Z
+Registrar: Net-Chinese Co., Ltd.
+Registrar IANA ID: 1336
+Registrar Abuse Contact Email: foreign@net-chinese.com.tw
+Registrar Abuse Contact Phone: +886.225319696
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS1.EDGECASTDNS.NET
+Name Server: NS2.EDGECASTDNS.NET
+Name Server: NS3.EDGECASTDNS.NET
+Name Server: NS4.EDGECASTDNS.NET
+DNSSEC: unsigned
+
+-----------------------------
+
+Domain Name: GMAIL.COM
+Registry Domain ID: 4667231_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-07-11T09:34:15Z
+Creation Date: 1995-08-13T04:00:00Z
+Registry Expiry Date: 2020-08-12T04:00:00Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: NS1.GOOGLE.COM
+Name Server: NS2.GOOGLE.COM
+Name Server: NS3.GOOGLE.COM
+Name Server: NS4.GOOGLE.COM
+DNSSEC: unsigned
+
+------------------------------
+
+Domain Name: ACER.COM
+Registry Domain ID: 346075_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.eurodns.com
+Registrar URL: http://www.EuroDNS.com
+Updated Date: 2012-02-15T05:48:03Z
+Creation Date: 1994-09-07T04:00:00Z
+Registry Expiry Date: 2020-05-17T20:32:30Z
+Registrar: EuroDNS S.A.
+Registrar IANA ID: 1052
+Registrar Abuse Contact Email: legal@eurodns.com
+Registrar Abuse Contact Phone: +352.27220150
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS1.ACER.COM
+Name Server: NS2.ACER.COM
+Name Server: NS3.ACER.COM
+Name Server: NS4.ACER.COM
+Name Server: NS5.ACER.COM
+Name Server: NS6.ACER.COM
+DNSSEC: unsigned
