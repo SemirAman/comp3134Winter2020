@@ -1,0 +1,10 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:39:05.129368 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.49760: Flags [P.], seq 1311623277:1311623313, ack 2898618956, win 313, length 36
+20:39:05.134704 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.49760: Flags [P.], seq 36:144, ack 1, win 313, length 108
+20:39:05.134777 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.49760: Flags [P.], seq 144:180, ack 1, win 313, length 36
+20:39:05.134836 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.49760: Flags [P.], seq 180:288, ack 1, win 313, length 108
+20:39:05.134877 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.49760: Flags [P.], seq 288:324, ack 1, win 313, length 36
+20:39:05.137236 IP 198.96.85.163.49760 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 324, win 511, length 0
+20:39:05.140377 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.49760: Flags [P.], seq 324:1112, ack 1, win 313, length 788
+20:39:05.140477 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.49760: Flags [P.], seq 1112:1276, ack 1, win 313, length 164
