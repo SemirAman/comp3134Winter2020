@@ -1,0 +1,7 @@
+answer 1: the definition of the word is displayed on the page.
+
+answer 2: the invalid word typed displayed a no results page.
+
+answer 3: The page gave many categories, almost as if it is the home page.
+
+answer 4: tha website did the same thing mentioned in answer 3.

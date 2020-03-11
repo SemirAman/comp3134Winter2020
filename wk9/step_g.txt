@@ -1,0 +1,2 @@
+Mitigate problem:
+wrap the code (html headers) in php, modifying its syntax.

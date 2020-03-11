@@ -1,0 +1,3 @@
+Issue in the browser: all the files/folders within the var directory in droplet server
+
+Sensitive info: sensitive info is shown, the sirectories created by the server.

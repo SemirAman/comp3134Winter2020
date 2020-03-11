@@ -1,0 +1,3 @@
+Mitigate problems:
+ use basename() func to return only filename of what user requests,
+then web server will be prompted to check to see if file exists

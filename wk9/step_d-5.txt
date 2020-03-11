@@ -1,0 +1,3 @@
+Issue in Browser: the folder html is displayed (the root folder)
+
+Sensitive info: all the files within html folder of droplet server

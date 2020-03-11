@@ -1,0 +1,3 @@
+Issue with browser: no information displayed because 'hello' folder does not exist
+
+sensitive Info: no sensitive info shown on the page 
