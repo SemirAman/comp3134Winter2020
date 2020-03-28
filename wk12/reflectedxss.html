@@ -1,0 +1,19 @@
+<h1>ReflectedXSS</h1>
+
+<form id="Form">
+    <input type="text" name="myInput" id="myInput">
+    <input type="submit" onclick="msg();">
+</form>
+
+<div id="msg"></div>
+
+
+<script>
+    document.getElementById("Form").addEventListener("click", function(event){
+        event.preventDefault()
+    });
+
+    function msg() {
+        document.getElementById('msg').innerHTML = document.getElementById("myInput").value;
+    }
+</script>

@@ -1,0 +1,3 @@
+if you can change the destination for the form, it'll help secure the application
+But both the form and action pages need to be protected.
+This can be done by using session
