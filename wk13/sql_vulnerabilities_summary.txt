@@ -1,0 +1,15 @@
+1: Users were not displayed
+
+2: User was displayed on the table ven if the active status is 0,
+when including "'--" the query is ignored, user is then returned.
+
+3: no users were displayed, a warning was displayed 
+
+
+USING getusers_2.php
+
+1: There were no user displayed
+
+2: There were no user displayed
+
+3: There were no user displayed
